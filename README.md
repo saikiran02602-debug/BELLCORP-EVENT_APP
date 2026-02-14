@@ -40,3 +40,7 @@ A full-stack MERN application for users to discover, view, and manage event regi
 - **Event**: Name, Organizer, Location, Date, Capacity, Category.
 - **Registration**: Links UserID and EventID.
 
+ ## 6.Video Link:
+ https://drive.google.com/file/d/15p-0a81M5laf-W1R76oYafEtoU8qo8iY/view?usp=drive_link
+
+
