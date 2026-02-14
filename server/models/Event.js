@@ -1,0 +1,1 @@
+const mongoose=require('mongoose');module.exports=mongoose.model('Event',new mongoose.Schema({name:String,location:String,date:Date,description:String,capacity:Number},{timestamps:true}));
